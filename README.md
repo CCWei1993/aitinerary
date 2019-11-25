@@ -1,4 +1,1 @@
-# lineBotFin
-# lineBotFin
-# aitinerary
-# aitinerary
+# the latest version of line bot "AItinerary"
