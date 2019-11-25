@@ -1,0 +1,50 @@
+# 檔案名稱 .gitignore
+# 忽略檔案
+apiKey.txt
+basic_tutorial.ipynb
+confluent_kafka_consumer.ipynb
+line_secret_key
+marker.html
+Untitled.ipynb
+user_profile_business.txt
+user_profile_tutorial.txt
+users_been2tko.csv
+users_birthday.csv
+users_Budget.csv
+users_date_dept.csv
+users_date_ret.csv
+users_flightBudget.csv
+users_gender.csv
+users_gift.csv
+users_hotelBudget.csv
+users_log
+users_partner.csv
+users_pic.csv
+users_restBudget.csv
+users_style.csv
+# 忽略 config 目錄下的 database.yml 檔案
+/step5/*.joblib
+/step5/*.bin
+/step5/*.dat
+/step5/*.csv
+/step5/*.txt
+/step5/Untitled.ipynb
+/step5/Untitled1.ipynb
+/step5/Untitled2.ipynb
+/step5/*.model
+# 忽略所有 db 目錄下附檔名是 .sqlite3 的檔案
+/db/*.sqlite3
+/audio/*
+/images/*
+/map/*
+/step1/*
+/step2/*
+/step3/*
+/step4/*
+/step6_content/*
+/step7_pushmessage_imagemapmessage/*
+/step8_quickreply_message/*
+/step9_flex_message/*
+# 忽略所有附檔名是 .tmp 的檔案
+*.tmp
+*.csv
